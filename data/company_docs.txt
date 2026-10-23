@@ -1,0 +1,41 @@
+Company Refund Policy
+
+Customers can request a refund within 7 days of receiving the product.
+
+Products must be unused and returned in their original packaging.
+
+Refunds are normally processed within 5 business days after the returned product is inspected.
+
+Digital products are not eligible for refunds.
+
+Premium customers can request refunds within 14 days.
+
+Order Cancellation Policy
+
+Customers can cancel an order before it is shipped.
+
+Once an order has been shipped, cancellation is not possible.
+
+Customers can contact support for exceptional cases.
+
+Shipping Policy
+
+Standard delivery usually takes 3 to 5 business days.
+
+Express delivery usually takes 1 to 2 business days.
+
+Orders above ₹5000 receive free standard shipping.
+
+Security Policy
+
+Passwords are stored using secure hashing.
+
+JWT is used for authentication between the frontend and backend.
+
+Access tokens expire after a configured period.
+
+Customer Data Policy
+
+Customer personal information must not be exposed to unauthorized users.
+
+Only authorized employees can access sensitive customer information.

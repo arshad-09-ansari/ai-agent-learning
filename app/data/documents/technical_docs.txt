@@ -1,0 +1,41 @@
+Document 1:
+Redis is an in-memory data store commonly used for caching.
+Redis TTL defines how long a key remains available before it expires.
+Caching can reduce database load and improve application response time.
+
+Document 2:
+JWT is a token-based authentication mechanism.
+A JWT contains information about the user and is usually sent with API requests.
+JWT expiration defines how long the authentication token remains valid.
+
+Document 3:
+SVC-57 is a Not_Found error returned when the requested resource does not exist.
+The API should return an HTTP 404 response when SVC-57 occurs.
+
+Document 4:
+Spring Security provides authentication and authorization functionality for Spring Boot applications.
+JWT authentication can be implemented using filters in Spring Security.
+
+Document 5:
+PostgreSQL indexes improve query performance by allowing the database to locate rows efficiently.
+Indexes should be created on columns frequently used in WHERE clauses.
+
+Document 6:
+Redis distributed locking can be used when multiple application instances need coordinated access to a shared resource.
+A lock should have an expiration time to avoid deadlocks.
+
+Document 7:
+Payment services should validate webhook signatures before processing payment events.
+Invalid signatures should be rejected to prevent unauthorized payment updates.
+
+Document 8:
+HTTP 401 indicates that authentication is required or the provided authentication credentials are invalid.
+HTTP 403 indicates that the user is authenticated but does not have permission to access the resource.
+
+Document 9:
+Kafka is a distributed event streaming platform commonly used for asynchronous communication between microservices.
+Kafka topics contain partitions that allow messages to be distributed.
+
+Document 10:
+RabbitMQ is a message broker commonly used for asynchronous communication.
+Queues store messages until consumers process them.

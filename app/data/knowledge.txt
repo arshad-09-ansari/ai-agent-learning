@@ -1,0 +1,22 @@
+Java is a popular object-oriented programming language.
+
+Spring Boot is a Java framework used to build production-ready backend applications.
+
+Spring Boot provides features such as dependency injection, auto configuration, embedded servers, and REST API development.
+
+Redis is an in-memory data store commonly used for caching.
+
+PostgreSQL is a relational database management system.
+
+Apache Kafka is a distributed event streaming platform.
+
+Docker is used to package applications and their dependencies into containers.
+
+Kubernetes is used to orchestrate containerized applications.
+
+React is a JavaScript library commonly used to build user interfaces.
+Java is a strongly typed programming language.
+Spring Boot is used to build production-ready Java applications.
+Redis is an in-memory data store commonly used for caching.
+Kafka is an event streaming platform.
+Docker packages applications and their dependencies into containers.
