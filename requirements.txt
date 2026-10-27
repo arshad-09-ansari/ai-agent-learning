@@ -3,3 +3,4 @@ google-genai
 tiktoken
 scikit-learn
 rank-bm25
+langchain-google-genai
